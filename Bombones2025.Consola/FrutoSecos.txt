@@ -1,0 +1,7 @@
+1|Almendras
+2|Nueces
+3|Avellanas
+4|Castañas
+5|Pistachos
+7|Anacardos
+8|Piñones
